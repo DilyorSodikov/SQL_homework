@@ -18,7 +18,7 @@ VALUES (17,'Kamron', 16);
 
 SELECT * FROM Students
 
-
-
+-- -- BACKUP DATABASE SchoolDB
+-- -- TO DISK = '/var/opt/mssql/data/SchoolDB.bak';
 
 
